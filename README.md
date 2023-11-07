@@ -17,18 +17,18 @@ A list of some of my favorite tools that I find myself using again and again
   
 ## SQL Server
 - Brent Ozar
- - https://www.brentozar.com/
- - https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
+  - https://www.brentozar.com/
+  - https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
 - SQL Server Maintenance Solution
- - https://ola.hallengren.com/
+  - https://ola.hallengren.com/
 - DBATools
- - https://dbatools.io/
+  - https://dbatools.io/
 - DBA Multitool
- - https://dba-multitool.org/
+  - https://dba-multitool.org/
 - Erik Darling
- - https://erikdarling.com/
+  - https://erikdarling.com/
 - https://www.sqlskills.com/
 - Pinal Dave
- -  https://blog.sqlauthority.com/
+  -  https://blog.sqlauthority.com/
 - SQLWatch
- - https://sqlwatch.io/
+  - https://sqlwatch.io/
