@@ -13,3 +13,22 @@ A list of some of my favorite tools that I find myself using again and again
 ## Design
 - Palette Selection
   - https://www.learnui.design/tools/data-color-picker.html
+ 
+  
+## SQL Server
+- Brent Ozar
+ - https://www.brentozar.com/
+ - https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
+- SQL Server Maintenance Solution
+ - https://ola.hallengren.com/
+- DBATools
+ - https://dbatools.io/
+- DBA Multitool
+ - https://dba-multitool.org/
+- Erik Darling
+ - https://erikdarling.com/
+- https://www.sqlskills.com/
+- Pinal Dave
+ -  https://blog.sqlauthority.com/
+- SQLWatch
+ - https://sqlwatch.io/
