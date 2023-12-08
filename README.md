@@ -32,3 +32,9 @@ A list of some of my favorite tools that I find myself using again and again
   -  https://blog.sqlauthority.com/
 - SQLWatch
   - https://sqlwatch.io/
+- Error Handling
+  - https://sommarskog.se/error_handling/Part1.html
+
+## PostgreSQL
+- SQL Server to Postgres
+  - https://www.red-gate.com/blog/sql-server-terms-translated-into-postgresql
